@@ -10,3 +10,7 @@ In dieser Lernperiode konzentriere ich mich auf das Modul 346. Zudem schaue ich 
 17.01.25
 - Ich arbeite ich an dem Modul 346 weiter und erledige die Aufgabe 4032_Dockernetzwerk bis PR_346_4035_ImageErstellenExtended.
 - Danach arbeite ich an dem Modul 295 weiter und probiere die Aufgabe mit Datenbank fertig zu machen, bis und mit GIT.
+
+24.01.25
+- Ich arbeite an dem Modul 112 weiter und erledige alle Moodle Tests sowie die Abgaben die auf Montag gemacht werden müssen.
+- Ich arbeite an dem Modul 250, da bald LB ist.
