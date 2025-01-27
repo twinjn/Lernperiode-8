@@ -12,5 +12,9 @@ In dieser Lernperiode konzentriere ich mich auf das Modul 346. Zudem schaue ich 
 - Danach arbeite ich an dem Modul 295 weiter und probiere die Aufgabe mit Datenbank fertig zu machen, bis und mit GIT.
 
 24.01.25
-- Ich arbeite an dem Modul 112 weiter und erledige alle Moodle Tests sowie die Abgaben die auf Montag gemacht werden müssen.
+- Ich arbeite an dem Modul 114 weiter und erledige alle Moodle Tests sowie die Abgaben die auf Montag gemacht werden müssen.
 - Ich arbeite an dem Modul 250, da bald LB ist.
+
+31.01.25
+- Ich arbeite an dem Modul 114 weiter, dabei versuche ich HZ 2 zu erledigen, da bald Abgabe ist.
+- Ich repetiere und versuche eine voll funktioniere Backend Webapplikation zu erstellen
