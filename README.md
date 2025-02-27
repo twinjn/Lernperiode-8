@@ -18,3 +18,11 @@ In dieser Lernperiode konzentriere ich mich auf das Modul 346. Zudem schaue ich 
 31.01.25
 - Ich arbeite an dem Modul 114 weiter, dabei versuche ich HZ 2 zu erledigen, da bald Abgabe ist.
 - Ich repetiere und versuche eine voll funktioniere Backend Webapplikation zu erstellen
+
+21.01.25
+- Ich arbeite an der LB weiter und probiere spezifische Punkte(wie GIT sowie Datenbank verbinden) zu erledigen.
+- Ich erledige HZ2 von dem Modul 114.
+
+28.01.25
+- Ich arbeite an der LB weiter und verbinde dabei einen Datenbank mit Visuel Studio.
+- Ich fange mit HZ3 im Modul 114 an und probiere dies fertig zu machen.
