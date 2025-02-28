@@ -24,5 +24,5 @@ In dieser Lernperiode konzentriere ich mich auf das Modul 346. Zudem schaue ich 
 - Ich erledige HZ2 von dem Modul 114.
 
 28.01.25
-- Ich arbeite an der LB weiter und verbinde dabei einen Datenbank mit Visuel Studio.
+- Ich arbeite an der LB weiter und verbinde dabei eine Datenbank mit Visual Studio.
 - Ich fange mit HZ3 im Modul 114 an und probiere dies fertig zu machen.
